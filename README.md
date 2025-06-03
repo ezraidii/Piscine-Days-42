@@ -20,8 +20,10 @@ This repository is a personal collection to track progress and organize work don
 - Browse exercises by subject in the **42_SUBJECTS** folder.  
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
+- 
 ## 🐱💻 Keep walking, keep coding!
-![Coding Cat](./coding-walking-cat.gif)
+![Cute Coding Cat](./coding-walking-cat.gif)
+
 
 
 
