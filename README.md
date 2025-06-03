@@ -1,6 +1,6 @@
 # Piscine-Days-42
 
-Welcome to the Piscine-Days-42 repository!  
+Welcome to the Piscine-Days-42 repository!   
 This repository contains coding exercises and projects completed during the 42 piscine program, organized by subjects and daily challenges.
 
 ## Repository Structure
