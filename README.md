@@ -22,6 +22,7 @@ This repository is a personal collection to track progress and organize work don
 - Contributions and suggestions are welcome through issues or pull requests.
 
 
-![Cute coding cat](https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg)
+![You can do it!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFtbjByOW4yNzJ4NGlvdjRmd2s4bW90Ymt6a3VtMHk3a2dnZTB4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p6Cgb4FSPdC2K/giphy.gif)
+
 
 
