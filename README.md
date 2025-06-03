@@ -1,6 +1,8 @@
 # Piscine-Days-42
 
 Welcome to the Piscine-Days-42 repository!   
+![Cute cat coding](https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg)
+
 This repository contains coding exercises and projects completed during the 42 piscine program, organized by subjects and daily challenges.
 
 ## Repository Structure
