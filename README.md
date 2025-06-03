@@ -22,7 +22,10 @@ This repository is a personal collection to track progress and organize work don
 - Contributions and suggestions are welcome through issues or pull requests.
 
 
-![You can do it!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFtbjByOW4yNzJ4NGlvdjRmd2s4bW90Ymt6a3VtMHk3a2dnZTB4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p6Cgb4FSPdC2K/giphy.gif)
+## 🐻 Keep coding, you're doing great!
+
+![Cute bear typing](https://media.tenor.com/Yj2G06QkhaYAAAAC/coding-bear.gif)
+
 
 
 
