@@ -20,6 +20,6 @@ This repository is a personal collection to track progress and organize work don
 - Browse exercises by subject in the **42_SUBJECTS** folder.  
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
+![Cute coding cat](https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg)
 
-https://www.pinterest.com/pin/aesthetically-pleasing-code--572309065127420137/
 
