@@ -21,8 +21,8 @@ This repository is a personal collection to track progress and organize work don
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
 
+![Bear Typing](https://c.tenor.com/fRPO-IEbA1QAAAAC/typing-bear.gif)
 
-![You Can Do It Penguin](https://media.tenor.com/Ug6Us36TOb8AAAAM/motivation-penguin.gif)
 
 
 
