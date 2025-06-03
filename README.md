@@ -1,8 +1,6 @@
 # Piscine-Days-42
 
 Welcome to the Piscine-Days-42 repository!   
-![Cute cat coding](https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg)
-
 This repository contains coding exercises and projects completed during the 42 piscine program, organized by subjects and daily challenges.
 
 ## Repository Structure
@@ -23,7 +21,5 @@ This repository is a personal collection to track progress and organize work don
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
 
-## Author
+https://www.pinterest.com/pin/aesthetically-pleasing-code--572309065127420137/
 
-**Mariam Ezraidii**  
-GitHub: [ezraidii](https://github.com/ezraidii)
