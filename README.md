@@ -22,7 +22,7 @@ This repository is a personal collection to track progress and organize work don
 - Contributions and suggestions are welcome through issues or pull requests.
 - 
 ## 🐱💻 Keep walking, keep coding!
-![Cute Coding Cat](./coding-walking-cat.gif)
+![Cute Coding Cat](./coding-walking-cat-17mitwkziw2xzxxk.gif)
 
 
 
