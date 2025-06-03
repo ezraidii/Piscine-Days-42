@@ -20,9 +20,9 @@ This repository is a personal collection to track progress and organize work don
 - Browse exercises by subject in the **42_SUBJECTS** folder.  
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
+## 🌟 Keep going, coder!
 
-![Bear Typing](https://c.tenor.com/fRPO-IEbA1QAAAAC/typing-bear.gif)
-
+![Motivational GIF](https://i.imgur.com/n6b8M2M.gif)
 
 
 
