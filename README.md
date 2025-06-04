@@ -21,11 +21,6 @@ This repository is a personal collection to track progress and organize work don
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
 
-- 🐱💻 Keep walking, keep coding!
-- ![Cute Coding Cat](./coding-walking-cat-17mitwkziw2xzxxk.gif)
-
-
-
 
 
 
