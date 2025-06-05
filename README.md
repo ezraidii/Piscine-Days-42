@@ -21,6 +21,7 @@ This repository is a personal collection to track progress and organize work don
 - Review daily tasks in the **DAYS** folder.  
 - Contributions and suggestions are welcome through issues or pull requests.
 
+#GOOD LUCK!
 
 
 
